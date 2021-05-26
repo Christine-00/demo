@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "139341824187",
+    "project_id": "apec-5b97a",
+    "storage_bucket": "apec-5b97a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139341824187:android:1660b68c545072a327e99e",
+        "android_client_info": {
+          "package_name": "com.myekad.apec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139341824187-fj29s7jtptpqqf75h87oe2nui1uchvh0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myekad.apec",
+            "certificate_hash": "fed057425024c6973e8b1e6ddb7644f17357a574"
+          }
+        },
+        {
+          "client_id": "139341824187-vqla397vgfvtnqng6hb14j2oc7l0n05t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArGaUdMqqMdOpes7d9oeK4QmkLLm8j7NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139341824187-vqla397vgfvtnqng6hb14j2oc7l0n05t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
